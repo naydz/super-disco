@@ -1,0 +1,163 @@
+<!--Naydia Francis 1806966
+Individual Assignment #1
+September 21,2020-->
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Personality Development</title>
+</head>
+<body background="soft lavender.jpg">
+
+    <table width="100%" border="0">
+
+        <tr>
+            <td colspan="4" bgcolor="palegreen">
+        
+                <h4 align=right>
+                    <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/Front_page.html">Home</a> |
+                    <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/aboutmepage.html">Profile</a> |
+                    <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/resume.html">Resume</a> |
+                    <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/personality.html">Personality Development</a> |
+                    <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/referencepage.html">References</a>
+                </h4>
+        
+            </td>
+        </tr>
+
+
+        <tr align="center">
+            <td rowspan="5" width="300" background="skin.jpg"> </td>
+
+            <td colspan="2">
+
+                <br><br><br><br>
+                
+                <font face="stencil" size="26" color="fuchsia">THE STRENGTHS</font>
+                <hr size="3" width="75%" align="center" color="palegreen" />
+                <br><br>
+            </td>
+        </tr>
+
+        <tr align="center">
+
+            <td background="string.jpg">
+                
+                <font face="stencil" size="5" color="white">Creativity
+                    <p>
+                        Creativity would be my greatest strength.
+                        I love art, I love colours and I am intrigued by the different aspects of art
+                        and artists. My tenure at the Edna Manley College of the Visual and Performing Arts Summer School Programme
+                        was an enlightened experience which helped developed different skill sets and enhanced those that were honed at St hugh's High School.
+                    </p>
+                </font>
+                 <br><br><br><br><br><br><br><br><br><br><br><br>
+                <br><br><br><br><br><br><br><br>
+               
+               
+            </td>
+
+
+            <td background="dot.jpg">
+                
+                <font face="stencil" size="5" color="white">Open Minded
+               <p>
+                I am usually conservative in how I dress, in constrast to how I viewed situations. Having a liberal mind is my greatest strength as my ability to think through and analyze situations is always without prejudice.
+                I am open to constructive criticism and suggestions. I treat each individual who crosses my path with respect and accept
+                their uniqueness as every individual is different. This attribute has helped me to appreciate that everyone's
+                mind and body is different and as such, appreciates the diverse world I live in. Subsequently, I am motivated to experiment with different hair colours which should influence my conservative wardrobe to move towards
+                one that accentuates my liberal mind. 
+               </p>
+                </font>
+                <br><br><br><br>
+            </td>
+
+            <tr align="center">
+            <td colspan="2" background="love.jpg">
+                <br><br>
+                <font face="Stencil" size="5" color="white">Passion
+               <p>
+                Being passionate about certain issues in the past has mobilized my current efforts. I am passionate about my environment, hence my participation in the "Nuh Dutty Up Jamaica" initiative.
+                I am passionate about the arts and how my creativity in the field may change the world (one day). Hence my enrollment in the Bachelor of Science in Computing programme at UTECH.
+                I am passionate about our social issues, hence, my participation in the 2020 General election as a first-time voter. I am able to pursue my passions now as I am a mature individual who has grown to appreciate
+                the diversities of the society I live in. 
+               </p> 
+                </font>
+                <br><br>
+            </td>
+            </tr>
+           
+        </tr>
+
+        <tr align="center">
+            <td colspan="3">
+                <br><br>
+            
+                <br><br>
+                <font face="stencil" size="10" color="fuchsia">PERSONALITY TOOLS</font>
+                <hr size="3" width="75%" align="center" color="palegreen" />
+                <br><br>
+            </td>
+        </tr>
+
+        <tr align="center">
+            <td>
+                <br><br>
+                <font face="comic sans ms" size="5" color="navy">Similar Minds
+               <p>
+                   After using  the Similar Minds Personality Tool, I realised that there were no careers in the computer field listed.I was a bit 
+                   dissappointed, but it also occurred to me that while the obvious was not listed, my degree could be interwoven
+                   in some of the career choices on the list. For example, a data analyst may need a computer programmer to write a programme that will
+                   analyze data efficiently so that a Marketing Manager (on the list) may be better able to market his/her company's products.
+                   Therefore, this tool is effective, as it gave me a variety of career choices, that would seemed to be outside of my 
+                   periphery, but has given me optimism. Finally, I am not deterred by the dictator career choice either, as this in my
+                   mind only confirms how strong minded I am.
+                </p>
+                </font>
+                <br><br>
+                <img src="minds1.png" width="500" height="400" alt="similar minds">
+                <br><br>
+                <!--external hyperlink linking to the similar mind website-->
+                <p>
+                    <a href="https://similarminds.com/">Click here to get your personality tested too!!</a>
+                </p>
+            </td>
+
+
+            <td>
+                <br><br>
+                <font face="comic sans ms" size="5" color="navy">Kiersey
+               <p>
+                   Kiersey's Temperament tool on the other hand was most effective. It spoke directly
+                   to me as all the results were clearly in line with my personality as an individual. It classifies my temperament 
+                   as a Guardian, who Keirsey described as the cornerstone of society. In that, my temperament is according to Keirsey
+                   is "given to serving and preserving over most important social institutions." Remember I spoke about my passion
+                   for environmental and social issues? My liberal mind is in conjunction with my temperament as according to Keirsey, I make loyal
+                   mates and a stabilizing leader.
+                   Finally, the questions were straighforward and the choice in answers were closed ended.
+
+
+                   
+               </p> 
+                </font>
+                <br><br><br><br><Br><br>
+                <img src="kiersey.png" width="500" height="400" alt="kiersey">
+                <br><br>
+                <!--external hyperlink linking to the kiersey website-->
+                <p>
+                    <a href="https://www.keirsey.com/">Click here to get your personality tested too!!</a>
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="3" align="center" bgcolor="paleturquoise" height="77">
+        
+                &copy Naydia Francis 2020, all rights reserved to licensed images
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>

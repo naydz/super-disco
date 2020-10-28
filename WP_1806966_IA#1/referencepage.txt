@@ -1,0 +1,82 @@
+<!--Naydia Francis 1806966
+Individual Assignment #1
+September 21,2020-->
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>References</title>
+    </head>
+
+<body background="soft lavender.jpg">
+
+    <table width="100%" border="0">
+        <tr>
+            <td colspan="2" bgcolor="palegreen">
+        
+             <h4 align=right>
+                <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/Front_page.html">Home</a> |
+                <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/aboutmepage.html">Profile</a> |
+                <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/resume.html">Resume</a> |
+                <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/personality.html">Personality Development</a> |
+                <a href="file:///C:/Users/Nakeisha%20L.%20Bell/Desktop/WP_1806966_IA%231/referencepage.html">References</a>
+             </h4>
+        
+            </td>
+        </tr>
+
+
+        <tr>
+            <th><br><br>
+                <font face="stencil" color="fuchsia" size="10">References</font>
+                <hr size="3" width="75%" align="center" color="palegreen" />
+                <br><br><br>
+            </th>
+        </tr>
+
+
+        <tr>
+            <td>
+                <font face="times new roman" size="5" color="navy">
+               
+                Drew, A. (2013, January 13). Passionate Love. Retrieved from Psychological Science:<br><br>
+                https://www.psychologicalscience.org/observer/passionate-love<br><br><br>
+                
+                Drew, A. (2013, January 13). Passionate Love. Retrieved from Psychological Science:<br><br>
+                https://www.psychologicalscience.org/observer/passionate-love<br><br><br>
+
+                Gemert, P. (n.d). Abilities. Retrieved from Pascal Van Gemert interactive resume:<br><br>
+                http://www.pascalvangemert.nl/#/abilities<br><br><br>
+
+                Houser, K. (2019, march 18). Psychedelic Mushrooms Can Boost Creativity and Empathy For A Week. Retrieved from<br><br>
+                Futurism.com: https://futurism.com/the-byte/psychedelic-mushrooms-boost-creativity-empathy<br><br><br>
+
+                Kiersey, D. (n.d). Kiersey Temperment Assesment. Retrieved from Kiersey: https://www.keirsey.com/<br><br><br>
+
+                kweli, T. (n.d). Talib Kweli Quotes. Retrieved from Goodreads:<br><br>
+                https://www.goodreads.com/quotes/240603-life-without-knowledge-is-death-in-disguise<br><br><br>
+
+                Potter, Y. (n.d). Open MInd. Retrieved from Pinterest.com:<br><br>
+                https://i.pinimg.com/originals/72/da/9e/72da9e699c9477847b23a6137c2c9355.jpg<br><br><br>
+
+                Smilar Minds. (n.d). Personality Test. Retrieved from Similarminds.Com: https://similarminds.com/<br><br><br>
+
+                Veggie Terrain. (2012). {VeganMoFo} Vegan Chocolate Chip Banana Nut Muffins. Retrieved from Veggie Terrain:<br><br>
+                http://www.veggieterrain.com/2012/10/veganmofo-vegan-chocolate-chip-banana.html<br><br><br>
+                
+                </font>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td colspan="3" align="center" bgcolor="paleturquoise" height="77">
+    
+             &copy Naydia Francis 2020, all rights reserved to licensed images
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+    
